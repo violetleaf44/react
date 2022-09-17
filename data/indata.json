@@ -10,10 +10,10 @@
 		"endday" : "2021-12-19 12:01:14" ,
 		"ci_service" : "ERP(인사)" ,
 		"ci_asset01" : "WEBSAP#01" ,
-		"ci_asset02" : "" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"ci_asset02" : "-" ,
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 119 ,
@@ -26,7 +26,7 @@
 		"endday" : "2021-12-19 12:01:17" ,
 		"ci_service" : "네트워크" ,
 		"ci_asset01" : "NOC#01" ,
-		"ci_asset02" : "" ,
+		"ci_asset02" : "-" ,
 		"rel_event" : "IN0715" ,
 		"rel_contents" : "접근제어서버 변경" ,
 		"rel_state" : "처리완료" 
@@ -42,10 +42,10 @@
 		"endday" : "2021-12-18 12:00:52" ,
 		"ci_service" : "그룹웨어" ,
 		"ci_asset01" : "GROUP#01" ,
-		"ci_asset02" : "" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"ci_asset02" : "-" ,
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 117 ,
@@ -58,7 +58,7 @@
 		"endday" : "2021-12-18 12:00:52" ,
 		"ci_service" : "Request(비용)" ,
 		"ci_asset01" : "과금#01" ,
-		"ci_asset02" : "" ,
+		"ci_asset02" : "-" ,
 		"rel_event" : "IN01423" ,
 		"rel_contents" : "과금서버 오류" ,
 		"rel_state" : "처리완료" 
@@ -107,9 +107,9 @@
 		"ci_service" : "Request(문의)" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 113 ,
@@ -123,9 +123,9 @@
 		"ci_service" : "Request(문의)" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 112 ,
@@ -138,7 +138,7 @@
 		"endday" : "2021-12-18 12:00:50" ,
 		"ci_service" : "Request(비용)" ,
 		"ci_asset01" : "과금#01" ,
-		"ci_asset02" : "" ,
+		"ci_asset02" : "-" ,
 		"rel_event" : "SR00232" ,
 		"rel_contents" : "결제화면 수정" ,
 		"rel_state" : "처리중" 
@@ -155,9 +155,9 @@
 		"ci_service" : "Request(문의)" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 110 ,
@@ -203,9 +203,9 @@
 		"ci_service" : "Request(문의)" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 107 ,
@@ -235,9 +235,9 @@
 		"ci_service" : "Request(문의)" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 105 ,
@@ -266,7 +266,7 @@
 		"endday" : "2021-12-18 12:00:53" ,
 		"ci_service" : "네트워크" ,
 		"ci_asset01" : "NOC#01" ,
-		"ci_asset02" : "" ,
+		"ci_asset02" : "-" ,
 		"rel_event" : "IN00692" ,
 		"rel_contents" : "웹서비스 수정" ,
 		"rel_state" : "접수중" 
@@ -347,9 +347,9 @@
 		"ci_service" : "Request(문의)" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 98 ,
@@ -363,9 +363,9 @@
 		"ci_service" : "Request(문의)" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 97 ,
@@ -379,9 +379,9 @@
 		"ci_service" : "Request(문의)" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 96 ,
@@ -395,9 +395,9 @@
 		"ci_service" : "Request(문의)" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 95 ,
@@ -443,9 +443,9 @@
 		"ci_service" : "Request(문의)" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 92 ,
@@ -507,9 +507,9 @@
 		"ci_service" : "Request(문의)" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 88 ,
@@ -539,9 +539,9 @@
 		"ci_service" : "Request(문의)" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 86 ,
@@ -635,9 +635,9 @@
 		"ci_service" : "Request(문의)" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 80 ,
@@ -651,9 +651,9 @@
 		"ci_service" : "Request(문의)" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 79 ,
@@ -683,9 +683,9 @@
 		"ci_service" : "Request(문의)" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 77 ,
@@ -715,9 +715,9 @@
 		"ci_service" : "Request(문의)" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 75 ,
@@ -747,9 +747,9 @@
 		"ci_service" : "Request(문의)" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 73 ,
@@ -763,9 +763,9 @@
 		"ci_service" : "Request(문의)" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 72 ,
@@ -779,9 +779,9 @@
 		"ci_service" : "Request(문의)" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 71 ,
@@ -827,9 +827,9 @@
 		"ci_service" : "Request(문의)" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 68 ,
@@ -859,9 +859,9 @@
 		"ci_service" : "Portal(WEB)" ,
 		"ci_asset01" : "Portal#01" ,
 		"ci_asset02" : "Portal#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 66 ,
@@ -891,9 +891,9 @@
 		"ci_service" : "Request(문의)" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 64 ,
@@ -907,9 +907,9 @@
 		"ci_service" : "Request(문의)" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 63 ,
@@ -923,9 +923,9 @@
 		"ci_service" : "Request(문의)" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 62 ,
@@ -987,9 +987,9 @@
 		"ci_service" : "Request(문의)" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 58 ,
@@ -1019,9 +1019,9 @@
 		"ci_service" : "Request(문의)" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 56 ,
@@ -1067,9 +1067,9 @@
 		"ci_service" : "Request(문의)" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 53 ,
@@ -1099,9 +1099,9 @@
 		"ci_service" : "Request(문의)" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 51 ,
@@ -1131,9 +1131,9 @@
 		"ci_service" : "Request(문의)" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 49 ,
@@ -1147,9 +1147,9 @@
 		"ci_service" : "Request(문의)" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 48 ,
@@ -1163,9 +1163,9 @@
 		"ci_service" : "Request(문의)" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 47 ,
@@ -1243,9 +1243,9 @@
 		"ci_service" : "Request(문의)" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 42 ,
@@ -1259,9 +1259,9 @@
 		"ci_service" : "외주서비스" ,
 		"ci_asset01" : "OUT_DEV#01" ,
 		"ci_asset02" : "OUT_DEV#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 41 ,
@@ -1275,9 +1275,9 @@
 		"ci_service" : "Request(문의)" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 40 ,
@@ -1323,9 +1323,9 @@
 		"ci_service" : "Request(문의)" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 37 ,
@@ -1339,9 +1339,9 @@
 		"ci_service" : "Request(문의)" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 36 ,
@@ -1419,9 +1419,9 @@
 		"ci_service" : "Request(문의)" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 31 ,
@@ -1499,9 +1499,9 @@
 		"ci_service" : "Request(문의)" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 26 ,
@@ -1515,9 +1515,9 @@
 		"ci_service" : "외주서비스" ,
 		"ci_asset01" : "OUT_DEV#01" ,
 		"ci_asset02" : "OUT_DEV#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 25 ,
@@ -1563,9 +1563,9 @@
 		"ci_service" : "Request(문의)" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 22 ,
@@ -1595,9 +1595,9 @@
 		"ci_service" : "외주서비스" ,
 		"ci_asset01" : "OUT_DEV#01" ,
 		"ci_asset02" : "OUT_DEV#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 20 ,
@@ -1675,9 +1675,9 @@
 		"ci_service" : "Request(문의)" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 15 ,
@@ -1691,9 +1691,9 @@
 		"ci_service" : "Request(문의)" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 14 ,
@@ -1707,9 +1707,9 @@
 		"ci_service" : "Request(문의)" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 13 ,
@@ -1723,9 +1723,9 @@
 		"ci_service" : "Request(문의)" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 12 ,
@@ -1739,9 +1739,9 @@
 		"ci_service" : "외주서비스" ,
 		"ci_asset01" : "OUT_DEV#01" ,
 		"ci_asset02" : "OUT_DEV#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 11 ,
@@ -1771,9 +1771,9 @@
 		"ci_service" : "Request(문의)" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 9 ,
@@ -1787,9 +1787,9 @@
 		"ci_service" : "Request(문의)" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 8 ,
@@ -1819,9 +1819,9 @@
 		"ci_service" : "외주서비스" ,
 		"ci_asset01" : "OUT_DEV#01" ,
 		"ci_asset02" : "OUT_DEV#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 6 ,
@@ -1835,9 +1835,9 @@
 		"ci_service" : "Request(문의)" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 5 ,
@@ -1851,9 +1851,9 @@
 		"ci_service" : "Request(문의)" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 4 ,
@@ -1867,9 +1867,9 @@
 		"ci_service" : "Request(문의)" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 3 ,
@@ -1899,9 +1899,9 @@
 		"ci_service" : "Request(문의)" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	},
 	{
 		"id" : 1 ,
@@ -1915,8 +1915,8 @@
 		"ci_service" : "외주서비스" ,
 		"ci_asset01" : "OUT_DEV#01" ,
 		"ci_asset02" : "OUT_DEV#02" ,
-		"rel_event" : "" ,
-		"rel_contents" : "" ,
-		"rel_state" : "" 
+		"rel_event" : "-" ,
+		"rel_contents" : "-" ,
+		"rel_state" : "-" 
 	}
 ]
