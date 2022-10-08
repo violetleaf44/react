@@ -1,6 +1,6 @@
 ﻿[
 	{
-		"id" : 260,
+		"id" : 260 ,
 		"sr_id" : "IN00260" ,
 		"type" : "서버" ,
 		"title" : "서버 오류" ,
@@ -11,7 +11,7 @@
 		"state" : "최종확인" ,
 		"startday" : "2021-12-11" ,
 		"endday" : "2021-12-19" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "OUT_DEV#01" ,
 		"ci_asset02" : "OUT_DEV#02" ,
 		"rel_event" : "PB00692" ,
@@ -19,7 +19,7 @@
 		"rel_state" : "접수중" 
 	},
 	{
-		"id" : 257,
+		"id" : 257 ,
 		"sr_id" : "IN00257" ,
 		"type" : "네트워크" ,
 		"title" : "네트워크 오류" ,
@@ -30,7 +30,7 @@
 		"state" : "최종확인" ,
 		"startday" : "2021-12-12" ,
 		"endday" : "2021-12-19" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB01211" ,
@@ -38,7 +38,7 @@
 		"rel_state" : "처리완료" 
 	},
 	{
-		"id" : 253,
+		"id" : 253 ,
 		"sr_id" : "IN00253" ,
 		"type" : "서버" ,
 		"title" : "서버 오류" ,
@@ -49,7 +49,7 @@
 		"state" : "최종확인" ,
 		"startday" : "2021-12-10" ,
 		"endday" : "2021-12-18" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "OUT_DEV#01" ,
 		"ci_asset02" : "OUT_DEV#02" ,
 		"rel_event" : "PB00692" ,
@@ -57,7 +57,7 @@
 		"rel_state" : "접수중" 
 	},
 	{
-		"id" : 248,
+		"id" : 248 ,
 		"sr_id" : "IN00248" ,
 		"type" : "네트워크" ,
 		"title" : "네트워크 오류" ,
@@ -68,7 +68,7 @@
 		"state" : "최종확인" ,
 		"startday" : "2021-12-10" ,
 		"endday" : "2021-12-18" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB00692" ,
@@ -76,9 +76,9 @@
 		"rel_state" : "접수중" 
 	},
 	{
-		"id" : 243,
+		"id" : 243 ,
 		"sr_id" : "IN00243" ,
-		"type" : "서비스" ,
+		"type" : "어플리케이션" ,
 		"title" : "양도양수" ,
 		"contents" : "[IN00243] 의 내용입니다." ,
 		"name" : "박영숙" ,
@@ -87,7 +87,7 @@
 		"state" : "최종확인" ,
 		"startday" : "2021-12-12" ,
 		"endday" : "2021-12-19" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB01123" ,
@@ -95,7 +95,7 @@
 		"rel_state" : "처리완료" 
 	},
 	{
-		"id" : 241,
+		"id" : 241 ,
 		"sr_id" : "IN00241" ,
 		"type" : "네트워크" ,
 		"title" : "네트워크 오류" ,
@@ -106,7 +106,7 @@
 		"state" : "최종확인" ,
 		"startday" : "2021-12-12" ,
 		"endday" : "2021-12-19" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB01123" ,
@@ -114,7 +114,7 @@
 		"rel_state" : "처리완료" 
 	},
 	{
-		"id" : 238,
+		"id" : 238 ,
 		"sr_id" : "IN00238" ,
 		"type" : "서버" ,
 		"title" : "서버 오류" ,
@@ -125,7 +125,7 @@
 		"state" : "최종확인" ,
 		"startday" : "2021-12-11" ,
 		"endday" : "2021-12-18" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "OUT_DEV#01" ,
 		"ci_asset02" : "OUT_DEV#02" ,
 		"rel_event" : "PB00692" ,
@@ -133,7 +133,7 @@
 		"rel_state" : "접수중" 
 	},
 	{
-		"id" : 236,
+		"id" : 236 ,
 		"sr_id" : "IN00236" ,
 		"type" : "네트워크" ,
 		"title" : "네트워크 오류" ,
@@ -144,7 +144,7 @@
 		"state" : "최종확인" ,
 		"startday" : "2021-12-11" ,
 		"endday" : "2021-12-18" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB00692" ,
@@ -152,7 +152,7 @@
 		"rel_state" : "접수중" 
 	},
 	{
-		"id" : 234,
+		"id" : 234 ,
 		"sr_id" : "IN00234" ,
 		"type" : "네트워크" ,
 		"title" : "네트워크 오류" ,
@@ -163,7 +163,7 @@
 		"state" : "최종확인" ,
 		"startday" : "2021-12-11" ,
 		"endday" : "2021-12-18" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB01123" ,
@@ -171,9 +171,9 @@
 		"rel_state" : "처리완료" 
 	},
 	{
-		"id" : 230,
+		"id" : 230 ,
 		"sr_id" : "IN00230" ,
-		"type" : "서비스" ,
+		"type" : "어플리케이션" ,
 		"title" : "인터넷연결오류 확인요청" ,
 		"contents" : "[IN00230] 의 내용입니다." ,
 		"name" : "이지현" ,
@@ -182,7 +182,7 @@
 		"state" : "최종확인" ,
 		"startday" : "2021-12-11" ,
 		"endday" : "2021-12-18" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB00692" ,
@@ -190,7 +190,7 @@
 		"rel_state" : "접수중" 
 	},
 	{
-		"id" : 227,
+		"id" : 227 ,
 		"sr_id" : "IN00227" ,
 		"type" : "네트워크" ,
 		"title" : "양도이미지 확인" ,
@@ -201,7 +201,7 @@
 		"state" : "최종확인" ,
 		"startday" : "2021-12-11" ,
 		"endday" : "2021-12-18" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB01123" ,
@@ -209,7 +209,7 @@
 		"rel_state" : "처리완료" 
 	},
 	{
-		"id" : 224,
+		"id" : 224 ,
 		"sr_id" : "IN00224" ,
 		"type" : "서버" ,
 		"title" : "서버 오류" ,
@@ -220,7 +220,7 @@
 		"state" : "배포완료" ,
 		"startday" : "2021-12-11" ,
 		"endday" : "2021-12-18" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "OUT_DEV#01" ,
 		"ci_asset02" : "OUT_DEV#02" ,
 		"rel_event" : "PB00692" ,
@@ -228,7 +228,7 @@
 		"rel_state" : "접수중" 
 	},
 	{
-		"id" : 221,
+		"id" : 221 ,
 		"sr_id" : "IN00221" ,
 		"type" : "네트워크" ,
 		"title" : "네트워크 오류" ,
@@ -239,7 +239,7 @@
 		"state" : "배포완료" ,
 		"startday" : "2021-12-11" ,
 		"endday" : "2021-12-18" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB01123" ,
@@ -247,7 +247,7 @@
 		"rel_state" : "처리완료" 
 	},
 	{
-		"id" : 215,
+		"id" : 215 ,
 		"sr_id" : "IN00215" ,
 		"type" : "네트워크" ,
 		"title" : "무한 로딩 진행 오류" ,
@@ -258,7 +258,7 @@
 		"state" : "배포완료" ,
 		"startday" : "2021-12-11" ,
 		"endday" : "2021-12-18" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB01123" ,
@@ -266,9 +266,9 @@
 		"rel_state" : "처리완료" 
 	},
 	{
-		"id" : 214,
+		"id" : 214 ,
 		"sr_id" : "IN00214" ,
-		"type" : "서비스" ,
+		"type" : "어플리케이션" ,
 		"title" : "비용구분 변경 가능한지 확인 요청" ,
 		"contents" : "[IN00214] 의 내용입니다." ,
 		"name" : "문은주" ,
@@ -277,7 +277,7 @@
 		"state" : "배포완료" ,
 		"startday" : "2021-12-11" ,
 		"endday" : "2021-12-18" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB00692" ,
@@ -285,7 +285,7 @@
 		"rel_state" : "접수중" 
 	},
 	{
-		"id" : 213,
+		"id" : 213 ,
 		"sr_id" : "IN00213" ,
 		"type" : "네트워크" ,
 		"title" : "이전설치 후 담당지국변경안됨" ,
@@ -296,7 +296,7 @@
 		"state" : "배포완료" ,
 		"startday" : "2021-12-11" ,
 		"endday" : "2021-12-18" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB01123" ,
@@ -304,7 +304,7 @@
 		"rel_state" : "처리완료" 
 	},
 	{
-		"id" : 212,
+		"id" : 212 ,
 		"sr_id" : "IN00212" ,
 		"type" : "네트워크" ,
 		"title" : "파일 조회가 되지 않습니다. " ,
@@ -315,7 +315,7 @@
 		"state" : "배포완료" ,
 		"startday" : "2021-12-11" ,
 		"endday" : "2021-12-18" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB00692" ,
@@ -323,7 +323,7 @@
 		"rel_state" : "접수중" 
 	},
 	{
-		"id" : 211,
+		"id" : 211 ,
 		"sr_id" : "IN00211" ,
 		"type" : "서버" ,
 		"title" : "서버 오류" ,
@@ -334,7 +334,7 @@
 		"state" : "배포완료" ,
 		"startday" : "2021-12-11" ,
 		"endday" : "2021-12-18" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "OUT_DEV#01" ,
 		"ci_asset02" : "OUT_DEV#02" ,
 		"rel_event" : "PB01123" ,
@@ -342,7 +342,7 @@
 		"rel_state" : "처리완료" 
 	},
 	{
-		"id" : 210,
+		"id" : 210 ,
 		"sr_id" : "IN00210" ,
 		"type" : "네트워크" ,
 		"title" : "네트워크 오류" ,
@@ -353,7 +353,7 @@
 		"state" : "배포완료" ,
 		"startday" : "2021-12-11" ,
 		"endday" : "2021-12-18" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB01123" ,
@@ -361,7 +361,7 @@
 		"rel_state" : "처리완료" 
 	},
 	{
-		"id" : 209,
+		"id" : 209 ,
 		"sr_id" : "IN00209" ,
 		"type" : "서버" ,
 		"title" : "서버 오류" ,
@@ -372,7 +372,7 @@
 		"state" : "배포완료" ,
 		"startday" : "2021-12-11" ,
 		"endday" : "2021-12-18" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "OUT_DEV#01" ,
 		"ci_asset02" : "OUT_DEV#02" ,
 		"rel_event" : "PB00692" ,
@@ -380,7 +380,7 @@
 		"rel_state" : "접수중" 
 	},
 	{
-		"id" : 208,
+		"id" : 208 ,
 		"sr_id" : "IN00208" ,
 		"type" : "서버" ,
 		"title" : "서버 오류" ,
@@ -391,7 +391,7 @@
 		"state" : "개발완료" ,
 		"startday" : "2021-12-11" ,
 		"endday" : "2021-12-18" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "OUT_DEV#01" ,
 		"ci_asset02" : "OUT_DEV#02" ,
 		"rel_event" : "-" ,
@@ -399,9 +399,9 @@
 		"rel_state" : "-" 
 	},
 	{
-		"id" : 207,
+		"id" : 207 ,
 		"sr_id" : "IN00207" ,
-		"type" : "그룹웨어" ,
+		"type" : "OA" ,
 		"title" : "그룹웨어 등록 안됨" ,
 		"contents" : "[IN00207] 의 내용입니다." ,
 		"name" : "이용규" ,
@@ -410,7 +410,7 @@
 		"state" : "개발완료" ,
 		"startday" : "2021-12-11" ,
 		"endday" : "2021-12-18" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB00692" ,
@@ -418,7 +418,7 @@
 		"rel_state" : "접수중" 
 	},
 	{
-		"id" : 206,
+		"id" : 206 ,
 		"sr_id" : "IN00206" ,
 		"type" : "네트워크" ,
 		"title" : "네트워크 오류" ,
@@ -429,7 +429,7 @@
 		"state" : "배포완료" ,
 		"startday" : "2021-12-11" ,
 		"endday" : "2021-12-18" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "-" ,
@@ -437,7 +437,7 @@
 		"rel_state" : "-" 
 	},
 	{
-		"id" : 205,
+		"id" : 205 ,
 		"sr_id" : "IN00205" ,
 		"type" : "서버" ,
 		"title" : "환불승인완료건이 입금처리 되지 않음." ,
@@ -448,7 +448,7 @@
 		"state" : "배포완료" ,
 		"startday" : "2021-12-11" ,
 		"endday" : "2021-12-18" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "OUT_DEV#01" ,
 		"ci_asset02" : "OUT_DEV#02" ,
 		"rel_event" : "PB00692" ,
@@ -456,7 +456,7 @@
 		"rel_state" : "접수중" 
 	},
 	{
-		"id" : 204,
+		"id" : 204 ,
 		"sr_id" : "IN00204" ,
 		"type" : "네트워크" ,
 		"title" : "관리지국 에러" ,
@@ -467,7 +467,7 @@
 		"state" : "배포완료" ,
 		"startday" : "2021-12-11" ,
 		"endday" : "2021-12-18" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB01123" ,
@@ -475,7 +475,7 @@
 		"rel_state" : "처리완료" 
 	},
 	{
-		"id" : 203,
+		"id" : 203 ,
 		"sr_id" : "IN00203" ,
 		"type" : "서버" ,
 		"title" : "AS접수 취소요청" ,
@@ -486,7 +486,7 @@
 		"state" : "배포진행" ,
 		"startday" : "2021-12-11" ,
 		"endday" : "2021-12-18" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "OUT_DEV#01" ,
 		"ci_asset02" : "OUT_DEV#02" ,
 		"rel_event" : "PB01123" ,
@@ -494,7 +494,7 @@
 		"rel_state" : "처리완료" 
 	},
 	{
-		"id" : 202,
+		"id" : 202 ,
 		"sr_id" : "IN00202" ,
 		"type" : "네트워크" ,
 		"title" : "네트워크 오류" ,
@@ -505,7 +505,7 @@
 		"state" : "배포진행" ,
 		"startday" : "2021-12-11" ,
 		"endday" : "2021-12-18" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB01123" ,
@@ -513,7 +513,7 @@
 		"rel_state" : "처리완료" 
 	},
 	{
-		"id" : 201,
+		"id" : 201 ,
 		"sr_id" : "IN00201" ,
 		"type" : "네트워크" ,
 		"title" : "네트워크 오류" ,
@@ -524,7 +524,7 @@
 		"state" : "배포진행" ,
 		"startday" : "2021-12-11" ,
 		"endday" : "2021-12-18" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB01123" ,
@@ -532,7 +532,7 @@
 		"rel_state" : "처리완료" 
 	},
 	{
-		"id" : 200,
+		"id" : 200 ,
 		"sr_id" : "IN00200" ,
 		"type" : "네트워크" ,
 		"title" : "네트워크 오류" ,
@@ -543,7 +543,7 @@
 		"state" : "배포진행" ,
 		"startday" : "2021-12-11" ,
 		"endday" : "2021-12-18" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB00692" ,
@@ -551,9 +551,9 @@
 		"rel_state" : "접수중" 
 	},
 	{
-		"id" : 199,
+		"id" : 199 ,
 		"sr_id" : "IN00199" ,
-		"type" : "서비스" ,
+		"type" : "어플리케이션" ,
 		"title" : "CRS 등록 오류" ,
 		"contents" : "[IN00199] 의 내용입니다." ,
 		"name" : "서경엽" ,
@@ -562,7 +562,7 @@
 		"state" : "배포진행" ,
 		"startday" : "2021-12-11" ,
 		"endday" : "2021-12-18" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB01123" ,
@@ -570,7 +570,7 @@
 		"rel_state" : "처리완료" 
 	},
 	{
-		"id" : 198,
+		"id" : 198 ,
 		"sr_id" : "IN00198" ,
 		"type" : "네트워크" ,
 		"title" : "네트워크 오류" ,
@@ -581,7 +581,7 @@
 		"state" : "최종확인" ,
 		"startday" : "2021-12-16" ,
 		"endday" : "2021-12-18" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB00692" ,
@@ -589,7 +589,7 @@
 		"rel_state" : "접수중" 
 	},
 	{
-		"id" : 197,
+		"id" : 197 ,
 		"sr_id" : "IN00197" ,
 		"type" : "네트워크" ,
 		"title" : "네트워크 오류" ,
@@ -600,7 +600,7 @@
 		"state" : "최종확인" ,
 		"startday" : "2021-12-11" ,
 		"endday" : "2021-12-19" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "-" ,
@@ -608,7 +608,7 @@
 		"rel_state" : "-" 
 	},
 	{
-		"id" : 196,
+		"id" : 196 ,
 		"sr_id" : "IN00196" ,
 		"type" : "서버" ,
 		"title" : "서버 오류" ,
@@ -619,7 +619,7 @@
 		"state" : "배포진행" ,
 		"startday" : "2021-12-11" ,
 		"endday" : "2021-12-19" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "OUT_DEV#01" ,
 		"ci_asset02" : "OUT_DEV#02" ,
 		"rel_event" : "PB00692" ,
@@ -627,7 +627,7 @@
 		"rel_state" : "접수중" 
 	},
 	{
-		"id" : 195,
+		"id" : 195 ,
 		"sr_id" : "IN00195" ,
 		"type" : "네트워크" ,
 		"title" : "네트워크 오류" ,
@@ -638,7 +638,7 @@
 		"state" : "배포진행" ,
 		"startday" : "2021-12-11" ,
 		"endday" : "2021-12-19" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB01123" ,
@@ -646,7 +646,7 @@
 		"rel_state" : "처리완료" 
 	},
 	{
-		"id" : 194,
+		"id" : 194 ,
 		"sr_id" : "IN00194" ,
 		"type" : "네트워크" ,
 		"title" : "네트워크 오류" ,
@@ -657,7 +657,7 @@
 		"state" : "배포진행" ,
 		"startday" : "2021-12-11" ,
 		"endday" : "2021-12-19" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB01123" ,
@@ -665,9 +665,9 @@
 		"rel_state" : "처리완료" 
 	},
 	{
-		"id" : 193,
+		"id" : 193 ,
 		"sr_id" : "IN00193" ,
-		"type" : "서비스" ,
+		"type" : "어플리케이션" ,
 		"title" : "서비스 오류" ,
 		"contents" : "[IN00193] 의 내용입니다." ,
 		"name" : "김희랑" ,
@@ -676,7 +676,7 @@
 		"state" : "배포진행" ,
 		"startday" : "2021-12-11" ,
 		"endday" : "2021-12-19" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB00692" ,
@@ -684,7 +684,7 @@
 		"rel_state" : "접수중" 
 	},
 	{
-		"id" : 192,
+		"id" : 192 ,
 		"sr_id" : "IN00192" ,
 		"type" : "네트워크" ,
 		"title" : "네트워크 오류" ,
@@ -695,7 +695,7 @@
 		"state" : "배포진행" ,
 		"startday" : "2021-12-11" ,
 		"endday" : "2021-12-19" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB01123" ,
@@ -703,7 +703,7 @@
 		"rel_state" : "처리완료" 
 	},
 	{
-		"id" : 191,
+		"id" : 191 ,
 		"sr_id" : "IN00191" ,
 		"type" : "OA" ,
 		"title" : "OA 등록 요청 부탁" ,
@@ -714,7 +714,7 @@
 		"state" : "배포진행" ,
 		"startday" : "2021-12-11" ,
 		"endday" : "2021-12-18" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB00692" ,
@@ -722,7 +722,7 @@
 		"rel_state" : "접수중" 
 	},
 	{
-		"id" : 190,
+		"id" : 190 ,
 		"sr_id" : "IN00190" ,
 		"type" : "네트워크" ,
 		"title" : "네트워크 오류" ,
@@ -733,7 +733,7 @@
 		"state" : "개발완료" ,
 		"startday" : "2021-12-11" ,
 		"endday" : "2021-12-19" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB01123" ,
@@ -741,9 +741,9 @@
 		"rel_state" : "처리완료" 
 	},
 	{
-		"id" : 189,
+		"id" : 189 ,
 		"sr_id" : "IN00189" ,
-		"type" : "그룹웨어" ,
+		"type" : "OA" ,
 		"title" : "상상오션 심사요청시 오류" ,
 		"contents" : "[IN00189] 의 내용입니다." ,
 		"name" : "김부연" ,
@@ -752,7 +752,7 @@
 		"state" : "개발완료" ,
 		"startday" : "2021-12-12" ,
 		"endday" : "2021-12-19" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB00692" ,
@@ -760,7 +760,7 @@
 		"rel_state" : "접수중" 
 	},
 	{
-		"id" : 188,
+		"id" : 188 ,
 		"sr_id" : "IN00188" ,
 		"type" : "네트워크" ,
 		"title" : "네트워크 오류" ,
@@ -771,7 +771,7 @@
 		"state" : "개발완료" ,
 		"startday" : "2021-12-12" ,
 		"endday" : "2021-12-19" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB00692" ,
@@ -779,7 +779,7 @@
 		"rel_state" : "접수중" 
 	},
 	{
-		"id" : 187,
+		"id" : 187 ,
 		"sr_id" : "IN00187" ,
 		"type" : "서버" ,
 		"title" : "당일출고건 출고 지점 관련 문의" ,
@@ -790,7 +790,7 @@
 		"state" : "개발완료" ,
 		"startday" : "2021-12-12" ,
 		"endday" : "2021-12-19" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "OUT_DEV#01" ,
 		"ci_asset02" : "OUT_DEV#02" ,
 		"rel_event" : "PB01123" ,
@@ -798,7 +798,7 @@
 		"rel_state" : "처리완료" 
 	},
 	{
-		"id" : 186,
+		"id" : 186 ,
 		"sr_id" : "IN00186" ,
 		"type" : "네트워크" ,
 		"title" : "네트워크 오류" ,
@@ -809,7 +809,7 @@
 		"state" : "개발완료" ,
 		"startday" : "2021-12-12" ,
 		"endday" : "2021-12-19" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB01123" ,
@@ -817,7 +817,7 @@
 		"rel_state" : "처리완료" 
 	},
 	{
-		"id" : 185,
+		"id" : 185 ,
 		"sr_id" : "IN00185" ,
 		"type" : "네트워크" ,
 		"title" : "네트워크 오류" ,
@@ -828,7 +828,7 @@
 		"state" : "배포완료" ,
 		"startday" : "2021-12-12" ,
 		"endday" : "2021-12-19" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB01123" ,
@@ -836,7 +836,7 @@
 		"rel_state" : "처리완료" 
 	},
 	{
-		"id" : 184,
+		"id" : 184 ,
 		"sr_id" : "IN00184" ,
 		"type" : "OA" ,
 		"title" : "메일 보관함 접근 시 에러" ,
@@ -847,7 +847,7 @@
 		"state" : "배포완료" ,
 		"startday" : "2021-12-12" ,
 		"endday" : "2021-12-19" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB01123" ,
@@ -855,7 +855,7 @@
 		"rel_state" : "처리완료" 
 	},
 	{
-		"id" : 183,
+		"id" : 183 ,
 		"sr_id" : "IN00183" ,
 		"type" : "네트워크" ,
 		"title" : "네트워크 오류" ,
@@ -866,7 +866,7 @@
 		"state" : "배포완료" ,
 		"startday" : "2021-12-12" ,
 		"endday" : "2021-12-19" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB01123" ,
@@ -874,7 +874,7 @@
 		"rel_state" : "처리완료" 
 	},
 	{
-		"id" : 180,
+		"id" : 180 ,
 		"sr_id" : "IN00180" ,
 		"type" : "서버" ,
 		"title" : "지로 통합발행 요청의 건" ,
@@ -885,7 +885,7 @@
 		"state" : "개발완료" ,
 		"startday" : "2021-12-12" ,
 		"endday" : "2021-12-19" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "OUT_DEV#01" ,
 		"ci_asset02" : "OUT_DEV#02" ,
 		"rel_event" : "PB00692" ,
@@ -893,9 +893,9 @@
 		"rel_state" : "접수중" 
 	},
 	{
-		"id" : 179,
+		"id" : 179 ,
 		"sr_id" : "IN00179" ,
-		"type" : "서비스" ,
+		"type" : "어플리케이션" ,
 		"title" : "주문접수 결제계좌 선택 오류 건 " ,
 		"contents" : "[IN00179] 의 내용입니다." ,
 		"name" : "이민혜" ,
@@ -904,7 +904,7 @@
 		"state" : "개발진행" ,
 		"startday" : "2021-12-12" ,
 		"endday" : "2021-12-19" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "-" ,
@@ -912,7 +912,7 @@
 		"rel_state" : "-" 
 	},
 	{
-		"id" : 178,
+		"id" : 178 ,
 		"sr_id" : "IN00178" ,
 		"type" : "네트워크" ,
 		"title" : "네트워크 오류" ,
@@ -923,7 +923,7 @@
 		"state" : "개발진행" ,
 		"startday" : "2021-12-12" ,
 		"endday" : "2021-12-19" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB01123" ,
@@ -931,7 +931,7 @@
 		"rel_state" : "처리완료" 
 	},
 	{
-		"id" : 177,
+		"id" : 177 ,
 		"sr_id" : "IN00177" ,
 		"type" : "OA" ,
 		"title" : "OA 등록 요청 부탁" ,
@@ -942,7 +942,7 @@
 		"state" : "개발진행" ,
 		"startday" : "2021-12-12" ,
 		"endday" : "2021-12-19" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB00692" ,
@@ -950,7 +950,7 @@
 		"rel_state" : "접수중" 
 	},
 	{
-		"id" : 176,
+		"id" : 176 ,
 		"sr_id" : "IN00176" ,
 		"type" : "네트워크" ,
 		"title" : "네트워크 오류" ,
@@ -961,7 +961,7 @@
 		"state" : "승인대기" ,
 		"startday" : "2021-12-12" ,
 		"endday" : "2021-12-19" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB01123" ,
@@ -969,7 +969,7 @@
 		"rel_state" : "처리완료" 
 	},
 	{
-		"id" : 175,
+		"id" : 175 ,
 		"sr_id" : "IN00175" ,
 		"type" : "네트워크" ,
 		"title" : "네트워크 오류" ,
@@ -980,7 +980,7 @@
 		"state" : "승인대기" ,
 		"startday" : "2021-12-12" ,
 		"endday" : "2021-12-19" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "-" ,
@@ -988,9 +988,9 @@
 		"rel_state" : "-" 
 	},
 	{
-		"id" : 174,
+		"id" : 174 ,
 		"sr_id" : "IN00174" ,
-		"type" : "애APP장" ,
+		"type" : "어플리케이션" ,
 		"title" : "지로 통합발행 재확인 요청의 건" ,
 		"contents" : "[IN00174] 의 내용입니다." ,
 		"name" : "이은진" ,
@@ -999,7 +999,7 @@
 		"state" : "개발완료" ,
 		"startday" : "2021-12-12" ,
 		"endday" : "2021-12-19" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "Portal#01" ,
 		"ci_asset02" : "Portal#02" ,
 		"rel_event" : "PB01123" ,
@@ -1007,7 +1007,7 @@
 		"rel_state" : "처리완료" 
 	},
 	{
-		"id" : 173,
+		"id" : 173 ,
 		"sr_id" : "IN00173" ,
 		"type" : "네트워크" ,
 		"title" : "멤버쉽 진행시 오류건" ,
@@ -1018,7 +1018,7 @@
 		"state" : "개발완료" ,
 		"startday" : "2021-12-12" ,
 		"endday" : "2021-12-19" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "-" ,
@@ -1026,9 +1026,9 @@
 		"rel_state" : "-" 
 	},
 	{
-		"id" : 172,
+		"id" : 172 ,
 		"sr_id" : "IN00172" ,
-		"type" : "애APP장" ,
+		"type" : "어플리케이션" ,
 		"title" : "멤버쉽 진행시 오류건" ,
 		"contents" : "[IN00172] 의 내용입니다." ,
 		"name" : "소순한" ,
@@ -1037,7 +1037,7 @@
 		"state" : "개발진행" ,
 		"startday" : "2021-12-12" ,
 		"endday" : "2021-12-19" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "Portal#01" ,
 		"ci_asset02" : "Portal#02" ,
 		"rel_event" : "PB01123" ,
@@ -1045,7 +1045,7 @@
 		"rel_state" : "처리완료" 
 	},
 	{
-		"id" : 171,
+		"id" : 171 ,
 		"sr_id" : "IN00171" ,
 		"type" : "네트워크" ,
 		"title" : "네트워크 오류" ,
@@ -1056,7 +1056,7 @@
 		"state" : "승인대기" ,
 		"startday" : "2021-12-12" ,
 		"endday" : "2021-12-19" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB01123" ,
@@ -1064,7 +1064,7 @@
 		"rel_state" : "처리완료" 
 	},
 	{
-		"id" : 170,
+		"id" : 170 ,
 		"sr_id" : "IN00170" ,
 		"type" : "네트워크" ,
 		"title" : "네트워크 오류" ,
@@ -1075,7 +1075,7 @@
 		"state" : "개발완료" ,
 		"startday" : "2021-12-12" ,
 		"endday" : "2021-12-19" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "-" ,
@@ -1083,7 +1083,7 @@
 		"rel_state" : "-" 
 	},
 	{
-		"id" : 169,
+		"id" : 169 ,
 		"sr_id" : "IN00169" ,
 		"type" : "네트워크" ,
 		"title" : "네트워크 오류" ,
@@ -1094,7 +1094,7 @@
 		"state" : "개발진행" ,
 		"startday" : "2021-12-12" ,
 		"endday" : "2021-12-19" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB00692" ,
@@ -1102,9 +1102,9 @@
 		"rel_state" : "접수중" 
 	},
 	{
-		"id" : 168,
+		"id" : 168 ,
 		"sr_id" : "IN00168" ,
-		"type" : "서비스" ,
+		"type" : "어플리케이션" ,
 		"title" : "명의변경시 발생되는비용 안내" ,
 		"contents" : "[IN00168] 의 내용입니다." ,
 		"name" : "김보름" ,
@@ -1113,7 +1113,7 @@
 		"state" : "개발진행" ,
 		"startday" : "2021-12-12" ,
 		"endday" : "2021-12-19" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "-" ,
@@ -1121,7 +1121,7 @@
 		"rel_state" : "-" 
 	},
 	{
-		"id" : 167,
+		"id" : 167 ,
 		"sr_id" : "IN00167" ,
 		"type" : "네트워크" ,
 		"title" : "L#3 스위치 오류" ,
@@ -1132,7 +1132,7 @@
 		"state" : "개발진행" ,
 		"startday" : "2021-12-12" ,
 		"endday" : "2021-12-19" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB01123" ,
@@ -1140,7 +1140,7 @@
 		"rel_state" : "처리완료" 
 	},
 	{
-		"id" : 166,
+		"id" : 166 ,
 		"sr_id" : "IN00166" ,
 		"type" : "서버" ,
 		"title" : "청약접수 오류" ,
@@ -1151,7 +1151,7 @@
 		"state" : "개발진행" ,
 		"startday" : "2021-10-29" ,
 		"endday" : "2021-11-05" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB01123" ,
@@ -1159,7 +1159,7 @@
 		"rel_state" : "처리완료" 
 	},
 	{
-		"id" : 165,
+		"id" : 165 ,
 		"sr_id" : "IN00165" ,
 		"type" : "서버" ,
 		"title" : "재렌탈 하려고 하는데요" ,
@@ -1170,7 +1170,7 @@
 		"state" : "승인대기" ,
 		"startday" : "2021-12-13" ,
 		"endday" : "2021-12-20" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB00692" ,
@@ -1178,7 +1178,7 @@
 		"rel_state" : "접수중" 
 	},
 	{
-		"id" : 163,
+		"id" : 163 ,
 		"sr_id" : "IN00163" ,
 		"type" : "서버" ,
 		"title" : "NCP불가고객 확인요청합니다. " ,
@@ -1189,7 +1189,7 @@
 		"state" : "승인대기" ,
 		"startday" : "2021-12-13" ,
 		"endday" : "2021-12-20" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB00692" ,
@@ -1197,7 +1197,7 @@
 		"rel_state" : "접수중" 
 	},
 	{
-		"id" : 162,
+		"id" : 162 ,
 		"sr_id" : "IN00162" ,
 		"type" : "OA" ,
 		"title" : "OA 등록 요청 부탁" ,
@@ -1208,7 +1208,7 @@
 		"state" : "승인대기" ,
 		"startday" : "2021-12-13" ,
 		"endday" : "2021-12-20" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB00692" ,
@@ -1216,7 +1216,7 @@
 		"rel_state" : "접수중" 
 	},
 	{
-		"id" : 161,
+		"id" : 161 ,
 		"sr_id" : "IN00161" ,
 		"type" : "서버" ,
 		"title" : "포탈-메일창 오류" ,
@@ -1227,7 +1227,7 @@
 		"state" : "승인대기" ,
 		"startday" : "2021-12-13" ,
 		"endday" : "2021-12-20" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB00692" ,
@@ -1235,9 +1235,9 @@
 		"rel_state" : "접수중" 
 	},
 	{
-		"id" : 160,
+		"id" : 160 ,
 		"sr_id" : "IN00160" ,
-		"type" : "그룹웨어" ,
+		"type" : "OA" ,
 		"title" : "학교 할인 프로모션 적용되는지 문의드립니다." ,
 		"contents" : "[IN00160] 의 내용입니다." ,
 		"name" : "심주미" ,
@@ -1246,7 +1246,7 @@
 		"state" : "개발진행" ,
 		"startday" : "2021-12-13" ,
 		"endday" : "2021-12-20" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "Portal#01" ,
 		"ci_asset02" : "Portal#02" ,
 		"rel_event" : "PB00692" ,
@@ -1254,9 +1254,9 @@
 		"rel_state" : "접수중" 
 	},
 	{
-		"id" : 159,
+		"id" : 159 ,
 		"sr_id" : "IN00159" ,
-		"type" : "애APP장" ,
+		"type" : "어플리케이션" ,
 		"title" : "사번을 입력함" ,
 		"contents" : "[IN00159] 의 내용입니다." ,
 		"name" : "김선미" ,
@@ -1265,7 +1265,7 @@
 		"state" : "개발진행" ,
 		"startday" : "2021-12-13" ,
 		"endday" : "2021-12-20" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "Portal#01" ,
 		"ci_asset02" : "Portal#02" ,
 		"rel_event" : "-" ,
@@ -1273,9 +1273,9 @@
 		"rel_state" : "-" 
 	},
 	{
-		"id" : 158,
+		"id" : 158 ,
 		"sr_id" : "IN00158" ,
-		"type" : "애APP장" ,
+		"type" : "어플리케이션" ,
 		"title" : "미수금 발생 수정 요청의 건" ,
 		"contents" : "[IN00158] 의 내용입니다." ,
 		"name" : "김민지" ,
@@ -1284,7 +1284,7 @@
 		"state" : "개발진행" ,
 		"startday" : "2021-12-13" ,
 		"endday" : "2021-12-20" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "Portal#01" ,
 		"ci_asset02" : "Portal#02" ,
 		"rel_event" : "PB00692" ,
@@ -1292,7 +1292,7 @@
 		"rel_state" : "접수중" 
 	},
 	{
-		"id" : 157,
+		"id" : 157 ,
 		"sr_id" : "IN00157" ,
 		"type" : "서버" ,
 		"title" : "인천 등록 서버" ,
@@ -1303,7 +1303,7 @@
 		"state" : "개발진행" ,
 		"startday" : "2021-12-13" ,
 		"endday" : "2021-12-20" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "-" ,
@@ -1311,7 +1311,7 @@
 		"rel_state" : "-" 
 	},
 	{
-		"id" : 156,
+		"id" : 156 ,
 		"sr_id" : "IN00156" ,
 		"type" : "서버" ,
 		"title" : "견적서오류 발생 수정 요청합니다. " ,
@@ -1322,7 +1322,7 @@
 		"state" : "개발진행" ,
 		"startday" : "2021-12-13" ,
 		"endday" : "2021-12-20" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB01123" ,
@@ -1330,7 +1330,7 @@
 		"rel_state" : "처리완료" 
 	},
 	{
-		"id" : 155,
+		"id" : 155 ,
 		"sr_id" : "IN00155" ,
 		"type" : "네트워크" ,
 		"title" : "지로 발행 오류" ,
@@ -1341,7 +1341,7 @@
 		"state" : "개발진행" ,
 		"startday" : "2021-12-13" ,
 		"endday" : "2021-12-20" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB01123" ,
@@ -1349,7 +1349,7 @@
 		"rel_state" : "처리완료" 
 	},
 	{
-		"id" : 154,
+		"id" : 154 ,
 		"sr_id" : "IN00154" ,
 		"type" : "서버" ,
 		"title" : "카드인증시 신용비정상 메시지 출력 문의" ,
@@ -1360,7 +1360,7 @@
 		"state" : "개발진행" ,
 		"startday" : "2021-12-13" ,
 		"endday" : "2021-12-20" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "-" ,
@@ -1368,9 +1368,9 @@
 		"rel_state" : "-" 
 	},
 	{
-		"id" : 153,
+		"id" : 153 ,
 		"sr_id" : "IN00153" ,
-		"type" : "그룹웨어" ,
+		"type" : "OA" ,
 		"title" : "A/S 접수등록 조회가 안됩니다. " ,
 		"contents" : "[IN00153] 의 내용입니다." ,
 		"name" : "박정은" ,
@@ -1379,7 +1379,7 @@
 		"state" : "개발진행" ,
 		"startday" : "2021-12-13" ,
 		"endday" : "2021-12-20" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB01123" ,
@@ -1387,7 +1387,7 @@
 		"rel_state" : "처리완료" 
 	},
 	{
-		"id" : 151,
+		"id" : 151 ,
 		"sr_id" : "IN00151" ,
 		"type" : "서버" ,
 		"title" : "서버오류" ,
@@ -1398,7 +1398,7 @@
 		"state" : "개발진행" ,
 		"startday" : "2021-12-13" ,
 		"endday" : "2021-12-20" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB01123" ,
@@ -1406,7 +1406,7 @@
 		"rel_state" : "처리완료" 
 	},
 	{
-		"id" : 150,
+		"id" : 150 ,
 		"sr_id" : "IN00150" ,
 		"type" : "OA" ,
 		"title" : "OA 등록 요청 부탁" ,
@@ -1417,7 +1417,7 @@
 		"state" : "개발진행" ,
 		"startday" : "2021-12-13" ,
 		"endday" : "2021-12-20" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB00692" ,
@@ -1425,7 +1425,7 @@
 		"rel_state" : "접수중" 
 	},
 	{
-		"id" : 149,
+		"id" : 149 ,
 		"sr_id" : "IN00149" ,
 		"type" : "서버" ,
 		"title" : "고객출금신청안됨" ,
@@ -1436,7 +1436,7 @@
 		"state" : "개발진행" ,
 		"startday" : "2021-12-13" ,
 		"endday" : "2021-12-20" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "-" ,
@@ -1444,9 +1444,9 @@
 		"rel_state" : "-" 
 	},
 	{
-		"id" : 148,
+		"id" : 148 ,
 		"sr_id" : "IN00148" ,
-		"type" : "애APP장" ,
+		"type" : "어플리케이션" ,
 		"title" : "계정상태 확인 요청" ,
 		"contents" : "[IN00148] 의 내용입니다." ,
 		"name" : "이은경" ,
@@ -1455,7 +1455,7 @@
 		"state" : "요청접수" ,
 		"startday" : "2021-12-12" ,
 		"endday" : "2021-12-23" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "Portal#01" ,
 		"ci_asset02" : "Portal#02" ,
 		"rel_event" : "PB00692" ,
@@ -1463,7 +1463,7 @@
 		"rel_state" : "접수중" 
 	},
 	{
-		"id" : 147,
+		"id" : 147 ,
 		"sr_id" : "IN00147" ,
 		"type" : "네트워크" ,
 		"title" : "인트라-청약접수수정불가 RFC오류" ,
@@ -1474,7 +1474,7 @@
 		"state" : "요청접수" ,
 		"startday" : "2021-12-13" ,
 		"endday" : "2021-12-23" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "-" ,
@@ -1482,7 +1482,7 @@
 		"rel_state" : "-" 
 	},
 	{
-		"id" : 146,
+		"id" : 146 ,
 		"sr_id" : "IN00146" ,
 		"type" : "네트워크" ,
 		"title" : "반환요청 고객 반환금 오류" ,
@@ -1493,7 +1493,7 @@
 		"state" : "요청접수" ,
 		"startday" : "2021-12-13" ,
 		"endday" : "2021-12-23" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB01123" ,
@@ -1501,7 +1501,7 @@
 		"rel_state" : "처리완료" 
 	},
 	{
-		"id" : 145,
+		"id" : 145 ,
 		"sr_id" : "IN00145" ,
 		"type" : "서버" ,
 		"title" : "이미지시스템 사용 관련 문의드립니다." ,
@@ -1512,7 +1512,7 @@
 		"state" : "개발진행" ,
 		"startday" : "2021-12-13" ,
 		"endday" : "2021-12-23" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "-" ,
@@ -1520,7 +1520,7 @@
 		"rel_state" : "-" 
 	},
 	{
-		"id" : 144,
+		"id" : 144 ,
 		"sr_id" : "IN00144" ,
 		"type" : "서버" ,
 		"title" : "선납잔액 전금건" ,
@@ -1531,7 +1531,7 @@
 		"state" : "승인대기" ,
 		"startday" : "2021-12-13" ,
 		"endday" : "2021-12-23" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "-" ,
@@ -1539,9 +1539,9 @@
 		"rel_state" : "-" 
 	},
 	{
-		"id" : 143,
+		"id" : 143 ,
 		"sr_id" : "IN00143" ,
-		"type" : "애APP장" ,
+		"type" : "어플리케이션" ,
 		"title" : "반환 매출확정 내역 없음" ,
 		"contents" : "[IN00143] 의 내용입니다." ,
 		"name" : "이가희" ,
@@ -1550,7 +1550,7 @@
 		"state" : "승인대기" ,
 		"startday" : "2021-12-13" ,
 		"endday" : "2021-12-23" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "Portal#01" ,
 		"ci_asset02" : "Portal#02" ,
 		"rel_event" : "PB01123" ,
@@ -1558,7 +1558,7 @@
 		"rel_state" : "처리완료" 
 	},
 	{
-		"id" : 142,
+		"id" : 142 ,
 		"sr_id" : "IN00142" ,
 		"type" : "서버" ,
 		"title" : "지로납부 확인요청" ,
@@ -1569,7 +1569,7 @@
 		"state" : "개발진행" ,
 		"startday" : "2021-12-13" ,
 		"endday" : "2021-12-23" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB00692" ,
@@ -1577,7 +1577,7 @@
 		"rel_state" : "접수중" 
 	},
 	{
-		"id" : 141,
+		"id" : 141 ,
 		"sr_id" : "IN00141" ,
 		"type" : "서버" ,
 		"title" : "카드승인취소안됨" ,
@@ -1588,7 +1588,7 @@
 		"state" : "승인대기" ,
 		"startday" : "2021-12-14" ,
 		"endday" : "2021-12-23" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB00692" ,
@@ -1596,7 +1596,7 @@
 		"rel_state" : "접수중" 
 	},
 	{
-		"id" : 140,
+		"id" : 140 ,
 		"sr_id" : "IN00140" ,
 		"type" : "OA" ,
 		"title" : "OA 등록 요청 부탁" ,
@@ -1607,7 +1607,7 @@
 		"state" : "승인대기" ,
 		"startday" : "2021-12-16" ,
 		"endday" : "2021-12-23" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB00692" ,
@@ -1615,7 +1615,7 @@
 		"rel_state" : "접수중" 
 	},
 	{
-		"id" : 137,
+		"id" : 137 ,
 		"sr_id" : "IN00137" ,
 		"type" : "서버" ,
 		"title" : "확정취소요청의 건" ,
@@ -1626,7 +1626,7 @@
 		"state" : "요청접수" ,
 		"startday" : "2021-12-16" ,
 		"endday" : "2021-12-23" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB01123" ,
@@ -1634,7 +1634,7 @@
 		"rel_state" : "처리완료" 
 	},
 	{
-		"id" : 136,
+		"id" : 136 ,
 		"sr_id" : "IN00136" ,
 		"type" : "서버" ,
 		"title" : "주문유형변경요청" ,
@@ -1645,7 +1645,7 @@
 		"state" : "요청접수" ,
 		"startday" : "2021-12-16" ,
 		"endday" : "2021-12-23" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "-" ,
@@ -1653,9 +1653,9 @@
 		"rel_state" : "-" 
 	},
 	{
-		"id" : 135,
+		"id" : 135 ,
 		"sr_id" : "IN00135" ,
-		"type" : "애APP장" ,
+		"type" : "어플리케이션" ,
 		"title" : "FRWEB#01서버 작업" ,
 		"contents" : "[IN00135] 의 내용입니다." ,
 		"name" : "안은주" ,
@@ -1664,7 +1664,7 @@
 		"state" : "개발완료" ,
 		"startday" : "2021-12-16" ,
 		"endday" : "2021-12-23" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "Portal#01" ,
 		"ci_asset02" : "Portal#02" ,
 		"rel_event" : "PB00692" ,
@@ -1672,7 +1672,7 @@
 		"rel_state" : "접수중" 
 	},
 	{
-		"id" : 134,
+		"id" : 134 ,
 		"sr_id" : "IN00134" ,
 		"type" : "서버" ,
 		"title" : "바코드 저장 서버 오류" ,
@@ -1683,7 +1683,7 @@
 		"state" : "개발완료" ,
 		"startday" : "2021-12-16" ,
 		"endday" : "2021-12-23" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "-" ,
@@ -1691,9 +1691,9 @@
 		"rel_state" : "-" 
 	},
 	{
-		"id" : 133,
+		"id" : 133 ,
 		"sr_id" : "IN00133" ,
-		"type" : "애APP장" ,
+		"type" : "어플리케이션" ,
 		"title" : "웹서버 오류 " ,
 		"contents" : "[IN00133] 의 내용입니다." ,
 		"name" : "허은정" ,
@@ -1702,7 +1702,7 @@
 		"state" : "승인대기" ,
 		"startday" : "2021-12-16" ,
 		"endday" : "2021-12-23" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "Portal#01" ,
 		"ci_asset02" : "Portal#02" ,
 		"rel_event" : "PB01123" ,
@@ -1710,7 +1710,7 @@
 		"rel_state" : "처리완료" 
 	},
 	{
-		"id" : 132,
+		"id" : 132 ,
 		"sr_id" : "IN00132" ,
 		"type" : "서버" ,
 		"title" : "랜털 저장 서버 오류" ,
@@ -1721,7 +1721,7 @@
 		"state" : "승인대기" ,
 		"startday" : "2021-12-16" ,
 		"endday" : "2021-12-23" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB01123" ,
@@ -1729,7 +1729,7 @@
 		"rel_state" : "처리완료" 
 	},
 	{
-		"id" : 131,
+		"id" : 131 ,
 		"sr_id" : "IN00131" ,
 		"type" : "네트워크" ,
 		"title" : "네트워크 장애" ,
@@ -1740,7 +1740,7 @@
 		"state" : "승인대기" ,
 		"startday" : "2021-12-16" ,
 		"endday" : "2021-12-23" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB00692" ,
@@ -1748,7 +1748,7 @@
 		"rel_state" : "접수중" 
 	},
 	{
-		"id" : 130,
+		"id" : 130 ,
 		"sr_id" : "IN00130" ,
 		"type" : "서버" ,
 		"title" : "결재 서버 오류" ,
@@ -1759,7 +1759,7 @@
 		"state" : "요청접수" ,
 		"startday" : "2021-12-16" ,
 		"endday" : "2021-12-23" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "-" ,
@@ -1767,7 +1767,7 @@
 		"rel_state" : "-" 
 	},
 	{
-		"id" : 129,
+		"id" : 129 ,
 		"sr_id" : "IN00129" ,
 		"type" : "네트워크" ,
 		"title" : "네트워크 오류" ,
@@ -1778,7 +1778,7 @@
 		"state" : "요청접수" ,
 		"startday" : "2021-12-16" ,
 		"endday" : "2021-12-23" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB00692" ,
@@ -1786,7 +1786,7 @@
 		"rel_state" : "접수중" 
 	},
 	{
-		"id" : 117,
+		"id" : 117 ,
 		"sr_id" : "IN00117" ,
 		"type" : "네트워크" ,
 		"title" : "네트워크 오류" ,
@@ -1797,7 +1797,7 @@
 		"state" : "개발진행" ,
 		"startday" : "2021-12-16" ,
 		"endday" : "2021-12-23" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB00692" ,
@@ -1805,7 +1805,7 @@
 		"rel_state" : "접수중" 
 	},
 	{
-		"id" : 116,
+		"id" : 116 ,
 		"sr_id" : "IN00116" ,
 		"type" : "서버" ,
 		"title" : " 회비 확인요청" ,
@@ -1816,7 +1816,7 @@
 		"state" : "승인대기" ,
 		"startday" : "2021-12-16" ,
 		"endday" : "2021-12-23" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "-" ,
@@ -1824,7 +1824,7 @@
 		"rel_state" : "-" 
 	},
 	{
-		"id" : 115,
+		"id" : 115 ,
 		"sr_id" : "IN00115" ,
 		"type" : "OA" ,
 		"title" : "OA 등록 요청 부탁" ,
@@ -1835,7 +1835,7 @@
 		"state" : "승인대기" ,
 		"startday" : "2021-12-16" ,
 		"endday" : "2021-12-23" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB00692" ,
@@ -1843,7 +1843,7 @@
 		"rel_state" : "접수중" 
 	},
 	{
-		"id" : 114,
+		"id" : 114 ,
 		"sr_id" : "IN00114" ,
 		"type" : "서버" ,
 		"title" : "방문서비스 안내 문자발송서버" ,
@@ -1854,7 +1854,7 @@
 		"state" : "최종확인" ,
 		"startday" : "2021-12-16" ,
 		"endday" : "2021-12-23" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB00692" ,
@@ -1862,7 +1862,7 @@
 		"rel_state" : "접수중" 
 	},
 	{
-		"id" : 113,
+		"id" : 113 ,
 		"sr_id" : "IN00113" ,
 		"type" : "서버" ,
 		"title" : "양도 처리방법" ,
@@ -1873,7 +1873,7 @@
 		"state" : "최종확인" ,
 		"startday" : "2021-12-16" ,
 		"endday" : "2021-12-23" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB00692" ,
@@ -1881,7 +1881,7 @@
 		"rel_state" : "접수중" 
 	},
 	{
-		"id" : 112,
+		"id" : 112 ,
 		"sr_id" : "IN00112" ,
 		"type" : "네트워크" ,
 		"title" : " 되물림 관련 문의" ,
@@ -1892,7 +1892,7 @@
 		"state" : "최종확인" ,
 		"startday" : "2021-12-16" ,
 		"endday" : "2021-12-23" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB01123" ,
@@ -1900,9 +1900,9 @@
 		"rel_state" : "처리완료" 
 	},
 	{
-		"id" : 111,
+		"id" : 111 ,
 		"sr_id" : "IN00111" ,
-		"type" : "애APP장" ,
+		"type" : "어플리케이션" ,
 		"title" : "접속이 안됨" ,
 		"contents" : "[IN00111] 의 내용입니다." ,
 		"name" : "방지영" ,
@@ -1911,7 +1911,7 @@
 		"state" : "승인대기" ,
 		"startday" : "2021-12-16" ,
 		"endday" : "2021-12-23" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "Portal#01" ,
 		"ci_asset02" : "Portal#02" ,
 		"rel_event" : "PB00692" ,
@@ -1919,7 +1919,7 @@
 		"rel_state" : "접수중" 
 	},
 	{
-		"id" : 110,
+		"id" : 110 ,
 		"sr_id" : "IN00110" ,
 		"type" : "서버" ,
 		"title" : "이미지시스템 스캔파일 목록추가 요청" ,
@@ -1930,7 +1930,7 @@
 		"state" : "승인대기" ,
 		"startday" : "2021-12-16" ,
 		"endday" : "2021-12-23" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB00692" ,
@@ -1938,9 +1938,9 @@
 		"rel_state" : "접수중" 
 	},
 	{
-		"id" : 109,
+		"id" : 109 ,
 		"sr_id" : "IN00109" ,
-		"type" : "애APP장" ,
+		"type" : "어플리케이션" ,
 		"title" : "웹서버 작동안됨" ,
 		"contents" : "[IN00109] 의 내용입니다." ,
 		"name" : "임향선" ,
@@ -1949,7 +1949,7 @@
 		"state" : "요청접수" ,
 		"startday" : "2021-12-16" ,
 		"endday" : "2021-12-23" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "Portal#01" ,
 		"ci_asset02" : "Portal#02" ,
 		"rel_event" : "PB01123" ,
@@ -1957,7 +1957,7 @@
 		"rel_state" : "처리완료" 
 	},
 	{
-		"id" : 108,
+		"id" : 108 ,
 		"sr_id" : "IN00108" ,
 		"type" : "네트워크" ,
 		"title" : "전자거래명세서등록요청" ,
@@ -1968,7 +1968,7 @@
 		"state" : "요청접수" ,
 		"startday" : "2021-12-16" ,
 		"endday" : "2021-12-23" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "NOC#01" ,
 		"ci_asset02" : "-" ,
 		"rel_event" : "PB00692" ,
@@ -1976,7 +1976,7 @@
 		"rel_state" : "접수중" 
 	},
 	{
-		"id" : 107,
+		"id" : 107 ,
 		"sr_id" : "IN00107" ,
 		"type" : "OA" ,
 		"title" : "OA 등록 요청 부탁" ,
@@ -1987,7 +1987,7 @@
 		"state" : "승인대기" ,
 		"startday" : "2021-12-16" ,
 		"endday" : "2021-12-23" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB00692" ,
@@ -1995,7 +1995,7 @@
 		"rel_state" : "접수중" 
 	},
 	{
-		"id" : 106,
+		"id" : 106 ,
 		"sr_id" : "IN00106" ,
 		"type" : "서버" ,
 		"title" : "계정목록 안뜸" ,
@@ -2006,7 +2006,7 @@
 		"state" : "최종확인" ,
 		"startday" : "2021-12-16" ,
 		"endday" : "2021-12-23" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "-" ,
@@ -2014,9 +2014,9 @@
 		"rel_state" : "-" 
 	},
 	{
-		"id" : 102,
+		"id" : 102 ,
 		"sr_id" : "IN00102" ,
-		"type" : "그룹웨어" ,
+		"type" : "OA" ,
 		"title" : "주문입력 시 연체정보 문의 " ,
 		"contents" : "[IN00102] 의 내용입니다." ,
 		"name" : "김지윤" ,
@@ -2025,7 +2025,7 @@
 		"state" : "배포완료" ,
 		"startday" : "2021-12-16" ,
 		"endday" : "2021-12-23" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB00692" ,
@@ -2033,7 +2033,7 @@
 		"rel_state" : "접수중" 
 	},
 	{
-		"id" : 101,
+		"id" : 101 ,
 		"sr_id" : "IN00101" ,
 		"type" : "OA" ,
 		"title" : "OA 등록 요청 부탁" ,
@@ -2044,7 +2044,7 @@
 		"state" : "배포완료" ,
 		"startday" : "2021-12-16" ,
 		"endday" : "2021-12-23" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "-" ,
@@ -2052,7 +2052,7 @@
 		"rel_state" : "-" 
 	},
 	{
-		"id" : 100,
+		"id" : 100 ,
 		"sr_id" : "IN00100" ,
 		"type" : "서버" ,
 		"title" : "웹서버 작동안됨" ,
@@ -2063,7 +2063,7 @@
 		"state" : "요청접수" ,
 		"startday" : "2021-12-16" ,
 		"endday" : "2021-12-23" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB01123" ,
@@ -2071,7 +2071,7 @@
 		"rel_state" : "처리완료" 
 	},
 	{
-		"id" : 99,
+		"id" : 99 ,
 		"sr_id" : "IN00099" ,
 		"type" : "네트워크" ,
 		"title" : "RFC 오류로 저장이 안됩니다." ,
@@ -2082,7 +2082,7 @@
 		"state" : "개발진행" ,
 		"startday" : "2021-12-16" ,
 		"endday" : "2021-12-23" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB01123" ,
@@ -2090,7 +2090,7 @@
 		"rel_state" : "처리완료" 
 	},
 	{
-		"id" : 98,
+		"id" : 98 ,
 		"sr_id" : "IN00098" ,
 		"type" : "네트워크" ,
 		"title" : "선납 중도환불 금액 문의" ,
@@ -2101,7 +2101,7 @@
 		"state" : "개발진행" ,
 		"startday" : "2021-12-16" ,
 		"endday" : "2021-12-23" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "-" ,
@@ -2109,7 +2109,7 @@
 		"rel_state" : "-" 
 	},
 	{
-		"id" : 97,
+		"id" : 97 ,
 		"sr_id" : "IN00097" ,
 		"type" : "서버" ,
 		"title" : "1회 케어 서버 오류" ,
@@ -2120,7 +2120,7 @@
 		"state" : "요청접수" ,
 		"startday" : "2021-12-16" ,
 		"endday" : "2021-12-23" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "과금#01" ,
 		"ci_asset02" : "-" ,
 		"rel_event" : "SR00232" ,
@@ -2128,7 +2128,7 @@
 		"rel_state" : "처리중" 
 	},
 	{
-		"id" : 95,
+		"id" : 95 ,
 		"sr_id" : "IN00095" ,
 		"type" : "서버" ,
 		"title" : "재업무등록 오류 확인요청" ,
@@ -2139,7 +2139,7 @@
 		"state" : "승인대기" ,
 		"startday" : "2021-12-16" ,
 		"endday" : "2021-12-23" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB01211" ,
@@ -2147,7 +2147,7 @@
 		"rel_state" : "처리완료" 
 	},
 	{
-		"id" : 94,
+		"id" : 94 ,
 		"sr_id" : "IN00094" ,
 		"type" : "서버" ,
 		"title" : "수납내역확인요청." ,
@@ -2158,7 +2158,7 @@
 		"state" : "승인대기" ,
 		"startday" : "2021-12-16" ,
 		"endday" : "2021-12-23" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "-" ,
@@ -2166,7 +2166,7 @@
 		"rel_state" : "-" 
 	},
 	{
-		"id" : 93,
+		"id" : 93 ,
 		"sr_id" : "IN00093" ,
 		"type" : "OA" ,
 		"title" : "컴퓨터 안됩니다" ,
@@ -2177,7 +2177,7 @@
 		"state" : "요청접수" ,
 		"startday" : "2021-12-12" ,
 		"endday" : "2021-12-26" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB01211" ,
@@ -2185,7 +2185,7 @@
 		"rel_state" : "처리완료" 
 	},
 	{
-		"id" : 92,
+		"id" : 92 ,
 		"sr_id" : "IN00092" ,
 		"type" : "서버" ,
 		"title" : "지로요금 청구 서버 오류" ,
@@ -2196,7 +2196,7 @@
 		"state" : "요청접수" ,
 		"startday" : "2021-12-16" ,
 		"endday" : "2021-12-26" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "ITSM#01" ,
 		"ci_asset02" : "ITSM#02" ,
 		"rel_event" : "PB01211" ,
@@ -2204,7 +2204,7 @@
 		"rel_state" : "처리완료" 
 	},
 	{
-		"id" : 91,
+		"id" : 91 ,
 		"sr_id" : "IN00091" ,
 		"type" : "서버" ,
 		"title" : "결재 서버오류" ,
@@ -2215,7 +2215,7 @@
 		"state" : "개발완료" ,
 		"startday" : "2021-12-16" ,
 		"endday" : "2021-12-26" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "과금#01" ,
 		"ci_asset02" : "-" ,
 		"rel_event" : "PB01423" ,
@@ -2223,7 +2223,7 @@
 		"rel_state" : "처리완료" 
 	},
 	{
-		"id" : 90,
+		"id" : 90 ,
 		"sr_id" : "IN00090" ,
 		"type" : "네트워크" ,
 		"title" : "최초설치일자 문의드립니다. " ,
@@ -2234,7 +2234,7 @@
 		"state" : "요청접수" ,
 		"startday" : "2021-12-16" ,
 		"endday" : "2021-12-26" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "GROUP#01" ,
 		"ci_asset02" : "-" ,
 		"rel_event" : "-" ,
@@ -2242,7 +2242,7 @@
 		"rel_state" : "-" 
 	},
 	{
-		"id" : 89,
+		"id" : 89 ,
 		"sr_id" : "IN00089" ,
 		"type" : "네트워크" ,
 		"title" : "멥버쉽 네트워크 장애" ,
@@ -2253,7 +2253,7 @@
 		"state" : "요청접수" ,
 		"startday" : "2021-12-12" ,
 		"endday" : "2021-12-26" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "NOC#01" ,
 		"ci_asset02" : "-" ,
 		"rel_event" : "PB0715" ,
@@ -2261,9 +2261,9 @@
 		"rel_state" : "처리완료" 
 	},
 	{
-		"id" : 76,
+		"id" : 76 ,
 		"sr_id" : "IN00076" ,
-		"type" : "그룹웨어" ,
+		"type" : "OA" ,
 		"title" : "개인 그룹웨어 장애" ,
 		"contents" : "[IN00076] 의 내용입니다." ,
 		"name" : "박신효" ,
@@ -2272,7 +2272,7 @@
 		"state" : "요청접수" ,
 		"startday" : "2021-12-16" ,
 		"endday" : "2021-12-26" ,
-		"ci_service" : "장애처리" ,
+		"ci_service" : "" ,
 		"ci_asset01" : "WEBSAP#01" ,
 		"ci_asset02" : "-" ,
 		"rel_event" : "-" ,
